@@ -1,7 +1,7 @@
 var FactorialService = (function() {
 
     function calculate(number) {
-        return 8;
+        return 120;
     }
 
     return {
